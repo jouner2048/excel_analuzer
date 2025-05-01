@@ -24,4 +24,10 @@ This powerful yet simple tool, developed using Python, is specifically designed 
 ```bash
 # Example: You might need commands like these
 # pip install pandas matplotlib openpyxl reportlab
+<<<<<<< HEAD
 # python your_script_name.py
+=======
+# python your_script_name.py
+
+
+>>>>>>> cf569507a77aed395636d7febd3d41d2c2317cf2
